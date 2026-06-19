@@ -12,7 +12,7 @@
     "dev": "ts-node ./src/index.ts"
   },
   "dependencies": {
-    "@foxcite/sdk": "file:../backend/sdks/typescript",
+    "@foxcite/sdk": "file:../packages/foxcite-js",
     "chalk": "^5.3.0",
     "commander": "^11.0.0",
     "dotenv": "^16.3.1",
