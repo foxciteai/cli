@@ -1,6 +1,6 @@
 {
   "name": "@foxcite/cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Foxcite AEO CLI tool",
   "type": "module",
   "bin": {

@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/@foxcite%2Fcli.svg)](https://badge.fury.io/js/@foxcite%2Fcli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-The official Command Line Interface for [Foxcite](https://foxcite.com). Manage your AI visibility workspaces, trigger manual AEO (Answer Engine Optimization) audits, and track LLM citation gaps directly from your terminal.
+The official Command Line Interface for [Foxcite](https://foxcite.com). Manage your workspaces, trigger manual AEO audits, and measure your [ai search visibility](https://foxcite.com) and LLM citation gaps directly from your terminal.
 
 ## Installation
 
