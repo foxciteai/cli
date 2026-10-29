@@ -17,7 +17,7 @@ const program = new Command();
 program
   .name('foxcite')
   .description('Foxcite AEO CLI tool for auditing and managing brand visibility')
-  .version('1.0.1')
+  .version('1.0.3')
   .option('--json', 'Output raw JSON for agent/CI consumption');
 
 // Make options available globally to all commands
